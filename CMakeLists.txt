@@ -81,6 +81,7 @@ LINK_DIRECTORIES(
     ${CMAKE_BINARY_DIR}/
     /usr/local/lib
     /usr/lib/
+    /opt/homebrew/lib
 )
 
 # headers directories
