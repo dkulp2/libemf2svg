@@ -71,7 +71,7 @@ Commands to build this project:
 # * [-DDEBUG=on]: compile with debugging symbols
 #
 # CMAKE_INSTALL_PREFIX is optional, default is /usr/local/
-$ cmake . -DCMAKE_INSTALL_PREFIX=/usr/
+$ cmake . -DCMAKE_INSTALL_PREFIX=/usr/local
 
 # compilation
 $ make
